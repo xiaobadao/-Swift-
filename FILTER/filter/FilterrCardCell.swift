@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import SnapKit
+//import SnapKit
 class FilterrCardCell: UICollectionViewCell {
     
     var bgView: UIView?
