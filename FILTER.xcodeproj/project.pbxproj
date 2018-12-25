@@ -112,6 +112,10 @@
 		18F301C521D07CDC0052FB7A /* FILTER */ = {
 			isa = PBXGroup;
 			children = (
+				18F301F521D07CE90052FB7A /* FilterViewControllerOne.swift */,
+				18F301F621D07CE90052FB7A /* FilterModel.swift */,
+				18F301F721D07CE90052FB7A /* FilterrCardCell.swift */,
+				18F301F821D07CE90052FB7A /* FilterSectionReusableView.swift */,
 				18F301F421D07CE90052FB7A /* filter */,
 				18F301C621D07CDC0052FB7A /* AppDelegate.swift */,
 				18F301C821D07CDC0052FB7A /* ViewController.swift */,
@@ -144,10 +148,6 @@
 		18F301F421D07CE90052FB7A /* filter */ = {
 			isa = PBXGroup;
 			children = (
-				18F301F521D07CE90052FB7A /* FilterViewControllerOne.swift */,
-				18F301F621D07CE90052FB7A /* FilterModel.swift */,
-				18F301F721D07CE90052FB7A /* FilterrCardCell.swift */,
-				18F301F821D07CE90052FB7A /* FilterSectionReusableView.swift */,
 			);
 			path = filter;
 			sourceTree = "<group>";
